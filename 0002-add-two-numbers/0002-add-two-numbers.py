@@ -16,9 +16,7 @@ class Solution:
         n1, n2 = getStringNumber(l1), getStringNumber(l2)
         n3 = int(n1) + int(n2)
 
-        stack = []
-        for a in str(n3):
-            stack.append(int(a))
+        stack = [int(num) for num in str(n3)]
 
         last = ListNode(stack.pop(0))
         while stack != []:
