@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ponte348/LeetCodeSolutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Ponte348/LeetCodeSolutions/tree/master/0013-roman-to-integer) |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/Ponte348/LeetCodeSolutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 ## String
 |  |
 | ------- |
@@ -30,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0006-zigzag-conversion](https://github.com/Ponte348/LeetCodeSolutions/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/Ponte348/LeetCodeSolutions/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/Ponte348/LeetCodeSolutions/tree/master/0013-roman-to-integer) |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/Ponte348/LeetCodeSolutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 ## Sliding Window
 |  |
 | ------- |
@@ -55,4 +57,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Ponte348/LeetCodeSolutions/tree/master/0011-container-with-most-water) |
+## Backtracking
+|  |
+| ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/Ponte348/LeetCodeSolutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 <!---LeetCode Topics End-->
